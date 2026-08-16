@@ -1,1 +1,1 @@
-# AUP
+<meta name="base:app_id" content="6a8198eee4a8a41598e7a473" />
